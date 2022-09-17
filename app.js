@@ -27,7 +27,7 @@ function errrorHandler(error){
 }
 
 function clickEventHandler(){
-    // outputDiv.innerText = "bannannanannan "+ txtInput.value;
+    
 
     var innerText = txtInput.value;
 
